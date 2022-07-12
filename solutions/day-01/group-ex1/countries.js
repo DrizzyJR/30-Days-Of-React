@@ -1,4 +1,4 @@
-export const countries = [
+var countries = [
   'Albania',
   'Bolivia',
   'Canada',
@@ -11,3 +11,4 @@ export const countries = [
   'Japan',
   'Kenya',
 ]
+export { countries }

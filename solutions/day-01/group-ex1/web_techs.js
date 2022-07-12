@@ -1,4 +1,4 @@
-export const webTechs = [
+var webTechs = [
   'HTML',
   'CSS',
   'JavaScript',
@@ -7,3 +7,4 @@ export const webTechs = [
   'Node',
   'MongoDB',
 ]
+export { webTechs }
